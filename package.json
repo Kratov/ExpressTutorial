@@ -1,0 +1,22 @@
+{
+  "name": "expresstutorial",
+  "version": "1.0.0",
+  "description": "TutorialExpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kratov/ExpressTutorial.git"
+  },
+  "author": "Jaime Zamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kratov/ExpressTutorial/issues"
+  },
+  "homepage": "https://github.com/Kratov/ExpressTutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
